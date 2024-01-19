@@ -21,6 +21,6 @@ social: true # includes social icons at the bottom of the page
 
 Hello I am abolfazl Shahsavary. I am interrest in programming [programming link](http://www.w3school.com).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+this site is powered by [publications page](/al-folio/publications/) .
 
-You can connect with me by [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), .
+You can connect with me by [Font Awesome icons](https://telegram.org/abolfazl_shahsavary) and [Academicons]( https://mail.google.com/abolfazlshahsavaryy), .
