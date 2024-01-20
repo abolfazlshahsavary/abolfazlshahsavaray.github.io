@@ -1,29 +1,29 @@
 ---
 layout: page
-title: project 4
-description: a project with a background image
+title: rubiks cube
+description: teaching rubiks cube in khalaghiat institute
 img: assets/img/rubik2.png
-importance: 3
+importance: 1
 category: fun
 ---
 
-I have teaching rubiks cube since 2016 to 2018.
+I was teaching rubiks cube since 2016 to 2018.
 
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/rubik2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/r1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/rubik2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/r2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/rubik2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/r3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    I start cubing when I was 11 and I practice a lot to decrease the time of my solution.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -31,12 +31,12 @@ I have teaching rubiks cube since 2016 to 2018.
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    rubiks cube has 6 side with 12 edg and 8 corner and 6 center.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+one of the most valuable think that I learn of my teaching experience is we have not
+ever stop practice
+
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
