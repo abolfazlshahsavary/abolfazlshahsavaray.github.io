@@ -12,12 +12,7 @@ The othello project is game with c to improve othello game.
 
 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/othello.png
-    ---
+  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
