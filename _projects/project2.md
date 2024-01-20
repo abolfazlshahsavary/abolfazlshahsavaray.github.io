@@ -9,12 +9,7 @@ category: fun
 
 I have teaching rubiks cube since 2016 to 2018.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
