@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
+title: project 5
+description: a project with a background image
+img: assets/img/rubik.png
+importance: 3
 category: fun
 ---
 
