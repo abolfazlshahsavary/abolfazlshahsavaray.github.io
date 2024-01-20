@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: othello
 description: a project with a background image and giscus comments
 img: assets/img/othello.png
 importance: 2
