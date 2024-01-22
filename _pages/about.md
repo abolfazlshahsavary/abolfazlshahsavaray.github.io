@@ -13,14 +13,14 @@ profile:
     <p>IUST</p>
     <p>Tehran</p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello I am abolfazl Shahsavary. I am interrest in programming [programming link](http://www.w3school.com).
+Hello I am abolfazl Shahsavary. I am interrest in programming [programming link](https://www.w3school.com) and [link](https://www.geeksforgeeks.org).
 
-this site is powered by [publications page](/al-folio/publications/) .
+this site is originated by  [publications page](/al-folio/publications/) .
 
-You can connect with me by [Font Awesome icons](https://telegram.org/abolfazl_shahsavary) and [Academicons]( https://mail.google.com/abolfazlshahsavaryy), .
+You can connect with me by [Font Awesome icons](https://telegram.org/abolfazl_shahsavary) and [Academicons]( https://mail.google.com/abolfazlshahsavaryy), and [github](https://github.com/abolfazlshahsavary) .
