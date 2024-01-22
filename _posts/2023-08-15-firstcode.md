@@ -3,7 +3,7 @@ layout: post
 title: a post of my first code 
 date: 2023-08-15 15:09:00
 description: my first coding in university
-tags: formatting code
+tags: c code
 categories: sample-posts
 featured: true
 ---
