@@ -1,29 +1,19 @@
 ---
 layout: post
 title: new knowledge in math
-date: 2015-10-20 11:12:00-0400
+date: 2023-12-06 11:12:00-0400
 description: I learn math formula that I have never seen
-tags: formatting math
+tags: math
 categories: sample-posts
 related_posts: false
 ---
 
-This theme supports rendering beautiful math in inline and display modes using [MathJax 3](https://www.mathjax.org/) engine. You just need to surround your math expression with `$$`, like `$$ E = mc^2 $$`. If you leave it inside a paragraph, it will produce an inline expression, just like $$ E = mc^2 $$.
-
-To use display mode, again surround your expression with `$$` and place it as a separate paragraph. Here is an example:
-
+this new think in math that I have learn
+I use this site to write this formula [MathJax 3](https://www.mathjax.org/) 
 $$
-\f(x) = \sum_{n=0}^{\infty} \frac{f^n(a)}{n!} (x-a)^n
+f(x) = \sum_{n=0}^{\infty} \frac{f^n(a)}{n!} (x-a)^n
 $$
 
-You can also use `\begin{equation}...\end{equation}` instead of `$$` for display mode math.
-MathJax will automatically number equations:
 
-\begin{equation}
-\label{eq:cauchy-schwarz}
-\left( \sum*{k=1}^n a_k b_k \right)^2 \leq \left( \sum*{k=1}^n a*k^2 \right) \left( \sum*{k=1}^n b_k^2 \right)
-\end{equation}
 
-and by adding `\label{...}` inside the equation environment, we can now refer to the equation using `\eqref`.
-
-Note that MathJax 3 is [a major re-write of MathJax](https://docs.mathjax.org/en/latest/upgrading/whats-new-3.0.html) that brought a significant improvement to the loading and rendering speed, which is now [on par with KaTeX](http://www.intmath.com/cg5/katex-mathjax-comparison.php).
+[this link help you in writing math formula](https://docs.mathjax.org/en/latest/upgrading/whats-new-3.0.html)  [this link help you in writing math formula](http://www.intmath.com/cg5/katex-mathjax-comparison.php).
